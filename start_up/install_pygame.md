@@ -1,13 +1,16 @@
 # install pygame 安装pygame
 
-## why pygame 为什么选择pygame
+
+### why pygame 为什么选择pygame
 pygame 是一个成熟的、丰富的python库，非常适用于创建2D的小游戏，尽管很难利用pygame进行商用生产，但是pygame是初学者非常值得尝试的，这也将会抛掉许多底层技术的束缚，让我们专注于高级语言层面的逻辑开发。
 
-## how to instal 如何安装？
+
+### how to instal 如何安装？
 
 * 下载pygame有两个渠道：
 1. [下载地址1](https://bitbucket.org/pygame/pygame/downloads/)
 2. [下载地址2](https://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame)
+
 
 **要注意的是**：
 1. 文件名"cp"后的36代表的是python版本号3.6，cp27代表python2.7，最新版的python版本为3.8，
@@ -16,7 +19,8 @@ pygame 是一个成熟的、丰富的python库，非常适用于创建2D的小�
 3. 两个网站服务器均在美国，所以请科学上网后再下载文件
 4. 文件夹内上传了python3.8 Windows64位处理器的pygame文件，需要的话也可以直接下载。
 
-* 安装：
+
+* **安装**：
 
 1. 首先确保你的电脑安装了与pygame对应版本的python，且安装python时选择安装了pip。
 2. 将下载好的.whl文件放入游戏开发所使用的文件夹
