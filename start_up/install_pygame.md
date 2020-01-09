@@ -29,7 +29,7 @@ pygame 是一个成熟的、丰富的python库，非常适用于创建2D的小�
 5. 界面显示installed证明安装完成
 6. 使用python shell尝试import pygame，如果报错：
 * 查看python版本与pygame是否相符，非常注意编辑器左（右）下角显示所使用的python版本号（有可能使用了anaconda安装的python3.7与重新下载的python3.8共存，要点击编辑器/IDE的python版本号直接更改）
-* 如果python shell未报错而编机器报错：
+* 如果python shell未报错而编辑器报错：
 打开命令行终端，进入游戏开发使用的文件夹，输入`pip install pygame`
 得到一个地址，截取到python38，查找到该目录，把目录下的site-packages复制到pycharm项目路径下的site-packages即可。
 
