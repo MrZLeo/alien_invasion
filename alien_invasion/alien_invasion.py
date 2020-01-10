@@ -15,7 +15,7 @@ def run_game():
         (ai_settings.screen_width, ai_settings.screen_height))
     pygame.display.set_caption("Alien Invasion")
 
-    # Craete an instance to store game statistics.
+    # Create an instance to store game statistics.
     stats = GameStats(ai_settings)
 
     # Make a ship, a group to store bullets, and a group of aliens.
@@ -39,3 +39,4 @@ def run_game():
 
         
 run_game()
+
