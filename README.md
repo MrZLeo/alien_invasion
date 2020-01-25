@@ -3,7 +3,7 @@
 alien invasion is a small game designed by python, it's easy and interesting.
 
 alien invasion 是初学python阶段制作的小游戏，
-以Eric Matthes 所著Python Crassh Course A Hands-On, Project-Based Introduction to programming-No Starch Press
+以Eric Matthes 所著Python Crash Course A Hands-On, Project-Based Introduction to programming-No Starch Press
 为指南，希望能够先实现功能，再进行改装升级。
 ***
 
